@@ -1,0 +1,40 @@
+.horizontal-profile {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.profile-picture {
+  flex: 0 0 150px;
+  margin-right: 10px;
+
+  img {
+    width: 150px;
+    height: 150px;
+    margin-left: -10px;
+    border-radius: 50%;
+  }
+}
+
+.profile-details {
+  h2 {
+    font-size: 30px;
+    margin: 0;
+  }
+
+  p {
+    font-size: 1.5rem;
+    color: #888;
+    margin: 5px 0;
+  }
+}
+
+.view-details-button {
+  color: gray;
+  // padding: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.student-report {
+    flex: 4;
+}
+
+.student-report-widgets {
+    display: flex;
+    margin: 20px;
+}

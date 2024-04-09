@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "item": 1,
+      "question": "The IP address 192.168.1.1 is an example of which type of IP address?",
+      "options":{
+        "A": "Public IP address",
+        "B": "Private IP address",
+        "C": "Static IP address",
+        "D": "Dynamic IP address"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 2,
+      "question": "Which network topology requires a central hub or switch?",
+      "options":{
+        "A": "Star topology",
+        "B": "Ring topology",
+        "C": "Bus topology",
+        "D": "Mesh topology"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which of the following protocols is used to transfer files between a client and a server over a network?",
+      "options":{
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "SMTP",
+        "D": "DHCP"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 4,
+      "question": "Which of the following is a Layer 2 device that operates at the Data Link layer of the OSI model?",
+      "options":{
+        "A": "Router",
+        "B": "Switch",
+        "C": "Hub",
+        "D": "Firewall"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 5,
+      "question": "What is the purpose of DNS in networking?",
+      "options":{
+        "A": "To convert IP addresses into domain names",
+        "B": "To convert domain names into IP addresses",
+        "C": "To ensure secure communication between two endpoints",
+        "D": "To provide network security"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 6,
+      "question": "Which network protocol is used for secure communication between a client and a server, often used for remote access or file sharing?",
+      "options":{
+        "A": "HTTPS",
+        "B": "SSH",
+        "C": "Telnet",
+        "D": "DNS"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 7,
+      "question": "What does the acronym WAN stand for in networking?",
+      "options":{
+        "A": "Wide Area Network",
+        "B": "Wireless Access Network",
+        "C": "Wide Access Network",
+        "D": "Wireless Area Network"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "Which device connects multiple networks together and can determine the best path for data packets to travel?",
+      "options":{
+        "A": "Router",
+        "B": "Modem",
+        "C": "Repeater",
+        "D": "Bridge"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 9,
+      "question": "Which of the following is a reserved IP address that always points to the local host (your own computer)?",
+      "options":{
+        "A": "127.0.0.1",
+        "B": "192.168.0.1",
+        "C": "10.0.0.1",
+        "D": "172.16.0.1"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "What does the acronym DHCP stand for in networking?",
+      "options":{
+        "A": "Domain Host Configuration Protocol",
+        "B": "Dynamic Host Control Protocol",
+        "C": "Dynamic Host Configuration Protocol",
+        "D": "Domain Host Control Protocol"
+      },
+      "correct_answer": "C",
+      "incorrect_answe": ["A", "B", "D"]
+    },
+    {
+      "item": 11,
+      "question": "The IP address 192.168.1.1 is an example of which type of IP address?",
+      "options":{
+        "A": "Public IP address",
+        "B": "Private IP address",
+        "C": "Static IP address",
+        "D": "Dynamic IP address"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 12,
+      "question": "Which network topology requires a central hub or switch?",
+      "options":{
+        "A": "Star topology",
+        "B": "Ring topology",
+        "C": "Bus topology",
+        "D": "Mesh topology"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 13,
+      "question": "Which of the following protocols is used to transfer files between a client and a server over a network?",
+      "options":{
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "SMTP",
+        "D": "DHCP"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 14,
+      "question": "Which of the following is a Layer 2 device that operates at the Data Link layer of the OSI model?",
+      "options":{
+        "A": "Router",
+        "B": "Switch",
+        "C": "Hub",
+        "D": "Firewall"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 15,
+      "question": "What is the purpose of DNS in networking?",
+      "options":{
+        "A": "To convert IP addresses into domain names",
+        "B": "To convert domain names into IP addresses",
+        "C": "To ensure secure communication between two endpoints",
+        "D": "To provide network security"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 16,
+      "question": "Which network protocol is used for secure communication between a client and a server, often used for remote access or file sharing?",
+      "options":{
+        "A": "HTTPS",
+        "B": "SSH",
+        "C": "Telnet",
+        "D": "DNS"
+      },
+      "correct_answer": "B",
+      "incorrect_answe": ["A", "C", "D"]
+    },
+    {
+      "item": 17,
+      "question": "What does the acronym WAN stand for in networking?",
+      "options":{
+        "A": "Wide Area Network",
+        "B": "Wireless Access Network",
+        "C": "Wide Access Network",
+        "D": "Wireless Area Network"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 18,
+      "question": "Which device connects multiple networks together and can determine the best path for data packets to travel?",
+      "options":{
+        "A": "Router",
+        "B": "Modem",
+        "C": "Repeater",
+        "D": "Bridge"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 19,
+      "question": "Which of the following is a reserved IP address that always points to the local host (your own computer)?",
+      "options":{
+        "A": "127.0.0.1",
+        "B": "192.168.0.1",
+        "C": "10.0.0.1",
+        "D": "172.16.0.1"
+      },
+      "correct_answer": "A",
+      "incorrect_answe": ["B", "C", "D"]
+    },
+    {
+      "item": 20,
+      "question": "What does the acronym DHCP stand for in networking?",
+      "options":{
+        "A": "Domain Host Configuration Protocol",
+        "B": "Dynamic Host Control Protocol",
+        "C": "Dynamic Host Configuration Protocol",
+        "D": "Domain Host Control Protocol"
+      },
+      "correct_answer": "C",
+      "incorrect_answe": ["A", "B", "D"]
+    }
+  ]
+}

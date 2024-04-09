@@ -1,0 +1,80 @@
+1,Which component of a computer is responsible for performing all arithmetic and logical operations?,Computer Hardware
+2,What does RAM stand for in computer hardware?,Computer Hardware
+3,Which of the following is an example of an input device?,Computer Hardware
+4,What is the main purpose of a graphics processing unit (GPU)?,Computer Hardware
+5,Which type of storage device has no moving parts and is used for long-term data storage?,Computer Hardware
+6,Which component is responsible for converting digital signals to analog signals and vice versa?,Computer Hardware
+7,Which component connects all other components of a computer?,Computer Hardware
+8,What is the purpose of a cooling system in a computer?,Computer Hardware
+9,Which component is responsible for providing electrical power to the computer?,Computer Hardware
+10,Which type of cable is commonly used to connect a computer to the internet?,Computer Hardware
+11,Which of the following is a component of a computer's central processing unit (CPU)?,Computer Hardware
+12,Which type of computer memory can hold data even when the power is turned off?,Computer Hardware
+13,Which connector is used to connect a monitor to a computer?,Computer Hardware
+14,Which device is responsible for sending data packets between different computer networks?,Computer Hardware
+15,What does the acronym BIOS stand for in computer hardware?,Computer Hardware
+16,Which component is responsible for controlling the speed of a computer's cooling fan?,Computer Hardware
+17,Which interface is used to connect an external hard drive to a computer?,Computer Hardware
+18,Which type of memory is non-volatile and commonly used for long-term storage?,Computer Hardware
+19,What does the acronym GPU stand for in computer hardware?,Computer Hardware
+20,Which component is responsible for converting digital signals from a computer into analog signals for transmission over telephone lines?,Computer Hardware
+21,What is the time complexity of inserting an element in a hashtable?,Data Structure and Algorithm
+22,Which of the following is NOT a searching algorithm?,Data Structure and Algorithm
+23,"Which data structure uses LIFO (Last In, First Out) principle?",Data Structure and Algorithm
+24,Which sorting algorithm has a worst-case time complexity of O(n^2)?,Data Structure and Algorithm
+25,Which data structure represents a hierarchical structure with parent-child relationships?,Data Structure and Algorithm
+26,What is the time complexity of accessing an element in an array?,Data Structure and Algorithm
+27,"Which data structure uses FIFO (First In, First Out) principle?",Data Structure and Algorithm
+28,Which searching algorithm requires the input array to be sorted beforehand?,Data Structure and Algorithm
+29,"Which sorting algorithm relies on the ""divide and conquer"" strategy?",Data Structure and Algorithm
+30,What is the time complexity of removing an element from a binary search tree?,Data Structure and Algorithm
+31,What is the time complexity of the QuickSort algorithm?,Data Structure and Algorithm
+32,"Which data structure is typically used to implement a LIFO (Last In, First Out) behavior?",Data Structure and Algorithm
+33,What is the purpose of hash functions in hash tables?,Data Structure and Algorithm
+34,Which sorting algorithm has the best worst-case time complexity?,Data Structure and Algorithm
+35,"Which data structure follows the First In, First Out (FIFO) order?",Data Structure and Algorithm
+36,What does BFS (Breadth-First Search) algorithm prioritize when exploring a graph?,Data Structure and Algorithm
+37,Which of the following is NOT an example of a dynamic programming problem?,Data Structure and Algorithm
+38,Which data structure is used to efficiently implement recursive algorithms?,Data Structure and Algorithm
+39,In which data structure is Binary Search algorithm most efficient?,Data Structure and Algorithm
+40,Which algorithm is used to determine the shortest path between nodes in a graph with weighted edges?,Data Structure and Algorithm
+41,What is the purpose of a variable in programming?,Fundametals of Programming
+42,"What does the term ""syntax"" refer to in programming?",Fundametals of Programming
+43,Which of the following is NOT a fundamental data type in programming?,Fundametals of Programming
+44,"What does the ""if...else"" statement do in programming?",Fundametals of Programming
+45,What is the purpose of a loop in programming?,Fundametals of Programming
+46,"What does the term ""algorithm"" mean in programming?",Fundametals of Programming
+47,What is the purpose of a function in programming?,Fundametals of Programming
+48,"What does the term ""debugging"" mean in programming?",Fundametals of Programming
+49,"What does the term ""IDE"" stand for in programming?",Fundametals of Programming
+50,Which of the following is an example of a conditional operator in programming?,Fundametals of Programming
+51,What is a computer program?,Fundametals of Programming
+52,What is the main purpose of a programming language?,Fundametals of Programming
+53,"What does the term ""syntax"" refer to in programming?",Fundametals of Programming
+54,What is the purpose of a variable in programming?,Fundametals of Programming
+55,What is a loop in programming?,Fundametals of Programming
+56,What is the difference between a function and a method in programming?,Fundametals of Programming
+57,What is a conditional statement in programming?,Fundametals of Programming
+58,What is debugging in programming?,Fundametals of Programming
+59,What is an algorithm in programming?,Fundametals of Programming
+60,What is the purpose of comments in programming?,Fundametals of Programming
+61,The IP address 192.168.1.1 is an example of which type of IP address?,Networking
+62,Which network topology requires a central hub or switch?,Networking
+63,Which of the following protocols is used to transfer files between a client and a server over a network?,Networking
+64,Which of the following is a Layer 2 device that operates at the Data Link layer of the OSI model?,Networking
+65,What is the purpose of DNS in networking?,Networking
+66,"Which network protocol is used for secure communication between a client and a server, often used for remote access or file sharing?",Networking
+67,What does the acronym WAN stand for in networking?,Networking
+68,Which device connects multiple networks together and can determine the best path for data packets to travel?,Networking
+69,Which of the following is a reserved IP address that always points to the local host (your own computer)?,Networking
+70,What does the acronym DHCP stand for in networking?,Networking
+71,The IP address 192.168.1.1 is an example of which type of IP address?,Networking
+72,Which network topology requires a central hub or switch?,Networking
+73,Which of the following protocols is used to transfer files between a client and a server over a network?,Networking
+74,Which of the following is a Layer 2 device that operates at the Data Link layer of the OSI model?,Networking
+75,What is the purpose of DNS in networking?,Networking
+76,"Which network protocol is used for secure communication between a client and a server, often used for remote access or file sharing?",Networking
+77,What does the acronym WAN stand for in networking?,Networking
+78,Which device connects multiple networks together and can determine the best path for data packets to travel?,Networking
+79,Which of the following is a reserved IP address that always points to the local host (your own computer)?,Networking
+80,What does the acronym DHCP stand for in networking?,Networking

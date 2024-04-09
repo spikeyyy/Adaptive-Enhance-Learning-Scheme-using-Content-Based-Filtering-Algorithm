@@ -1,0 +1,8 @@
+.prognosticHome {
+    flex: 4;
+}
+
+.prognosticHomeWidgets {
+    display: flex;
+    margin: 20px;
+}

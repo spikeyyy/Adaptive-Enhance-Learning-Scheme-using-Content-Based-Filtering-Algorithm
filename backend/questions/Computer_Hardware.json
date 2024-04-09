@@ -1,0 +1,244 @@
+{
+  "questions":[
+    {
+      "item": 1,
+      "question": "Which component of a computer is responsible for performing all arithmetic and logical operations?",
+      "options": {
+        "A": "RAM",
+        "B": "CPU",
+        "C": "GPU",
+        "D": "SSD"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 2,
+      "question": "What does RAM stand for in computer hardware?",
+      "options": {
+        "A": "Repairable Access Memory",
+        "B": "Rapid Access Memory",
+        "C": "Random Access Memory",
+        "D": "Read Access Memory"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which of the following is an example of an input device?",
+      "options": {
+        "A": "Printer",
+        "B": "Monitor",
+        "C": "Keyboard",
+        "D": "Speaker"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 4,
+      "question": "What is the main purpose of a graphics processing unit (GPU)?",
+      "options": {
+        "A": "Running the operating system",
+        "B": "Storing program instructions",
+        "C": "Rendering and displaying graphics",
+        "D": "Processing mathematical calculations"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 5,
+      "question": "Which type of storage device has no moving parts and is used for long-term data storage?",
+      "options": {
+        "A": "Hard Disk Drive (HDD)",
+        "B": "Solid State Drive (SSD)",
+        "C": "Optical Drive",
+        "D": "USB Flash Drive"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 6,
+      "question": "Which component is responsible for converting digital signals to analog signals and vice versa?",
+      "options": {
+        "A": "Motherboard",
+        "B": "Sound Card",
+        "C": "CPU",
+        "D": "Network Card"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 7,
+      "question": "Which component connects all other components of a computer?",
+      "options": {
+        "A": "Motherboard",
+        "B": "Power Supply Unit (PSU)",
+        "C": "Central Processing Unit (CPU)",
+        "D": "Random Access Memory (RAM)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "What is the purpose of a cooling system in a computer?",
+      "options": {
+        "A": "Provide power for components",
+        "B": "Display visuals on the screen",
+        "C": "Keep the components at an optimal temperature",
+        "D": "Store and retrieve data"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 9,
+      "question": "Which component is responsible for providing electrical power to the computer?",
+      "options": {
+        "A": "Power Supply Unit (PSU)",
+        "B": "Central Processing Unit (CPU)",
+        "C": "Hard Disk Drive (HDD)",
+        "D": "Graphics Processing Unit (GPU)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "Which type of cable is commonly used to connect a computer to the internet?",
+      "options": {
+        "A": "HDMI",
+        "B": "USB",
+        "C": "VGA",
+        "D": "Ethernet"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 11,
+      "question": "Which of the following is a component of a computer's central processing unit (CPU)?",
+      "options": {
+        "A": "Motherboard",
+        "B": "Random Access Memory (RAM)",
+        "C": "Arithmetic Logic Unit (ALU)",
+        "D": "Graphics Processing Unit (GPU)"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 12,
+      "question": "Which type of computer memory can hold data even when the power is turned off?",
+      "options": {
+        "A": "RAM",
+        "B": "Cache memory",
+        "C": "Hard disk drive",
+        "D": "Solid State Drive (SSD)"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 13,
+      "question": "Which connector is used to connect a monitor to a computer?",
+      "options": {
+        "A": "USB",
+        "B": "HDMI",
+        "C": "LAN",
+        "D": "VGA"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 14,
+      "question": "Which device is responsible for sending data packets between different computer networks?",
+      "options": {
+        "A": "Modem",
+        "B": "Router",
+        "C": "Switch",
+        "D": "Firewall"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 15,
+      "question": "What does the acronym BIOS stand for in computer hardware?",
+      "options": {
+        "A": "Basic Input/Output System",
+        "B": "Binary Operating System",
+        "C": "Base Input/Output System",
+        "D": "Basic Integrated Operating System"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 16,
+      "question": "Which component is responsible for controlling the speed of a computer's cooling fan?",
+      "options": {
+        "A": "Power Supply Unit (PSU)",
+        "B": "Central Processing Unit (CPU)",
+        "C": "System Clock",
+        "D": "Fan Controller"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 17,
+      "question": "Which interface is used to connect an external hard drive to a computer?",
+      "options": {
+        "A": "USB",
+        "B": "SATA",
+        "C": "FireWire",
+        "D": "Thunderbolt"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 18,
+      "question": "Which type of memory is non-volatile and commonly used for long-term storage?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "Flash memory",
+        "D": "Virtual memory"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 19,
+      "question": "What does the acronym GPU stand for in computer hardware?",
+      "options": {
+        "A": "General Processing Unit",
+        "B": "Global Processing Unit",
+        "C": "Graphical Performance Unit",
+        "D": "Graphics Processing Unit"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 20,
+      "question": "Which component is responsible for converting digital signals from a computer into analog signals for transmission over telephone lines?",
+      "options": {
+        "A": "Network Interface Card (NIC)",
+        "B": "Modem",
+        "C": "Ethernet Cable",
+        "D": "HUB"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    }
+]
+}

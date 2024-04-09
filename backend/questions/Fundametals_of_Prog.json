@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "item": 1,
+      "question": "What is the purpose of a variable in programming?",
+      "options": {
+        "A": "To store and manipulate data",
+        "B": "To connect two separate pieces of code",
+        "C": "To create a loop in the program",
+        "D": "To display information to the user"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 2,
+      "question": "What does the term \"syntax\" refer to in programming?",
+      "options": {
+        "A": "The style guide used to write code",
+        "B": "The execution speed of a program",
+        "C": "The rules and structure of a programming language",
+        "D": "The color scheme of the code editor"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which of the following is NOT a fundamental data type in programming?",
+      "options": {
+        "A": "Integer",
+        "B": "String",
+        "C": "Float",
+        "D": "Boolean"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 4,
+      "question": "What does the \"if...else\" statement do in programming?",
+      "options": {
+        "A": "Repeats a block of code until a condition is met",
+        "B": "Executes a block of code if a condition is true, otherwise executes another block",
+        "C": "Declares a new function in the program",
+        "D": "Checks if a variable is assigned a value"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 5,
+      "question": "What is the purpose of a loop in programming?",
+      "options": {
+        "A": "To create a random number",
+        "B": "To connect two separate pieces of code",
+        "C": "To store and manipulate data",
+        "D": "To repeat a block of code until a condition is met"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 6,
+      "question": "What does the term \"algorithm\" mean in programming?",
+      "options": {
+        "A": "A type of loop",
+        "B": "A specific programming language",
+        "C": "A sequence of steps to solve a problem",
+        "D": "A complex data structure"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 7,
+      "question": "What is the purpose of a function in programming?",
+      "options": {
+        "A": "To store and manipulate data",
+        "B": "To execute a specific task or algorithm",
+        "C": "To create a loop in the program",
+        "D": "To display information to the user"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "What does the term \"debugging\" mean in programming?",
+      "options": {
+        "A": "Removing all comments from the code",
+        "B": "Checking the syntax of the code",
+        "C": "Testing the program for errors and fixing them",
+        "D": "Executing the program step by step"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 9,
+      "question": "What does the term \"IDE\" stand for in programming?",
+      "options": {
+        "A": "Integrated Development Environment",
+        "B": "Interactive Debugging Environment",
+        "C": "Intelligent Data Extraction",
+        "D": "Information Display Engine"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "Which of the following is an example of a conditional operator in programming?",
+      "options": {
+        "A": "+",
+        "B": "*",
+        "C": "&&",
+        "D": "/"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 11,
+      "question": "What is a computer program?",
+      "options": {
+        "A": "A piece of software that allows your computer to perform specific tasks",
+        "B": "A physical component inside your computer that performs calculations",
+        "C": "A type of computer virus that infects other programs",
+        "D": "A device used to input commands into a computer"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 12,
+      "question": "What is the main purpose of a programming language?",
+      "options": {
+        "A": "To communicate with other computers over a network",
+        "B": "To create visually appealing websites and applications",
+        "C": "To instruct a computer to perform specific tasks",
+        "D": "To encrypt and secure data on a computer"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 13,
+      "question": "What does the term \"syntax\" refer to in programming?",
+      "options": {
+        "A": "The arrangement of words and phrases to create sentences",
+        "B": "The specific rules and structure of a programming language",
+        "C": "The process of finding and fixing errors in code",
+        "D": "The output generated by a computer program"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 14,
+      "question": "What is the purpose of a variable in programming?",
+      "options": {
+        "A": "To store and manipulate data during program execution",
+        "B": "To control the flow of the program's execution",
+        "C": "To display messages or prompts to the user",
+        "D": "To perform complex mathematical calculations"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 15,
+      "question": "What is a loop in programming?",
+      "options": {
+        "A": "A musical composition played repeatedly",
+        "B": "A method of organizing and storing data",
+        "C": "A series of instructions that are executed repeatedly",
+        "D": "A graphical user interface for an application"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 16,
+      "question": "What is the difference between a function and a method in programming?",
+      "options": {
+        "A": "Functions are built-in to programming languages, while methods are created by programmers",
+        "B": "Functions operate on classes, while methods operate on objects or instances",
+        "C": "Functions are used for mathematical calculations, while methods are used for text processing",
+        "D": "There is no difference, the terms are interchangeable"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 17,
+      "question": "What is a conditional statement in programming?",
+      "options": {
+        "A": "A statement that is always executed regardless of any conditions",
+        "B": "A statement that allows the program to make decisions based on different conditions",
+        "C": "A statement that outputs the result of a calculation or comparison",
+        "D": "A statement that is used to document the purpose and functionality of code"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 18,
+      "question": "What is debugging in programming?",
+      "options": {
+        "A": "The process of removing insects from a computer",
+        "B": "The process of writing code that performs a specific task",
+        "C": "The process of finding and fixing errors or bugs in code",
+        "D": "The process of optimizing code for better performance"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 19,
+      "question": "What is an algorithm in programming?",
+      "options": {
+        "A": "A type of computer virus",
+        "B": "A step-by-step procedure for solving a problem",
+        "C": "A type of programming language",
+        "D": "A keyboard shortcut for executing code"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 20,
+      "question": "What is the purpose of comments in programming?",
+      "options": {
+        "A": "To include hidden messages in code",
+        "B": "To disable a specific section of code temporarily",
+        "C": "To explain the purpose or functionality of code",
+        "D": "To change the appearance of text in the code editor"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    }
+  ]
+}

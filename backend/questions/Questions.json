@@ -1,0 +1,970 @@
+{
+  "Computer Hardware": [
+    {
+      "item": 1,
+      "question": "Which component of a computer is responsible for performing all arithmetic and logical operations?",
+      "options": {
+        "A": "RAM",
+        "B": "CPU",
+        "C": "GPU",
+        "D": "SSD"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 2,
+      "question": "What does RAM stand for in computer hardware?",
+      "options": {
+        "A": "Repairable Access Memory",
+        "B": "Rapid Access Memory",
+        "C": "Random Access Memory",
+        "D": "Read Access Memory"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which of the following is an example of an input device?",
+      "options": {
+        "A": "Printer",
+        "B": "Monitor",
+        "C": "Keyboard",
+        "D": "Speaker"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 4,
+      "question": "What is the main purpose of a graphics processing unit (GPU)?",
+      "options": {
+        "A": "Running the operating system",
+        "B": "Storing program instructions",
+        "C": "Rendering and displaying graphics",
+        "D": "Processing mathematical calculations"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 5,
+      "question": "Which type of storage device has no moving parts and is used for long-term data storage?",
+      "options": {
+        "A": "Hard Disk Drive (HDD)",
+        "B": "Solid State Drive (SSD)",
+        "C": "Optical Drive",
+        "D": "USB Flash Drive"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 6,
+      "question": "Which component is responsible for converting digital signals to analog signals and vice versa?",
+      "options": {
+        "A": "Motherboard",
+        "B": "Sound Card",
+        "C": "CPU",
+        "D": "Network Card"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 7,
+      "question": "Which component connects all other components of a computer?",
+      "options": {
+        "A": "Motherboard",
+        "B": "Power Supply Unit (PSU)",
+        "C": "Central Processing Unit (CPU)",
+        "D": "Random Access Memory (RAM)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "What is the purpose of a cooling system in a computer?",
+      "options": {
+        "A": "Provide power for components",
+        "B": "Display visuals on the screen",
+        "C": "Keep the components at an optimal temperature",
+        "D": "Store and retrieve data"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 9,
+      "question": "Which component is responsible for providing electrical power to the computer?",
+      "options": {
+        "A": "Power Supply Unit (PSU)",
+        "B": "Central Processing Unit (CPU)",
+        "C": "Hard Disk Drive (HDD)",
+        "D": "Graphics Processing Unit (GPU)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "Which type of cable is commonly used to connect a computer to the internet?",
+      "options": {
+        "A": "HDMI",
+        "B": "USB",
+        "C": "VGA",
+        "D": "Ethernet"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 11,
+      "question": "Which of the following is a component of a computer's central processing unit (CPU)?",
+      "options": {
+        "A": "Motherboard",
+        "B": "Random Access Memory (RAM)",
+        "C": "Arithmetic Logic Unit (ALU)",
+        "D": "Graphics Processing Unit (GPU)"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 12,
+      "question": "Which type of computer memory can hold data even when the power is turned off?",
+      "options": {
+        "A": "RAM",
+        "B": "Cache memory",
+        "C": "Hard disk drive",
+        "D": "Solid State Drive (SSD)"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 13,
+      "question": "Which connector is used to connect a monitor to a computer?",
+      "options": {
+        "A": "USB",
+        "B": "HDMI",
+        "C": "LAN",
+        "D": "VGA"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 14,
+      "question": "Which device is responsible for sending data packets between different computer networks?",
+      "options": {
+        "A": "Modem",
+        "B": "Router",
+        "C": "Switch",
+        "D": "Firewall"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 15,
+      "question": "What does the acronym BIOS stand for in computer hardware?",
+      "options": {
+        "A": "Basic Input/Output System",
+        "B": "Binary Operating System",
+        "C": "Base Input/Output System",
+        "D": "Basic Integrated Operating System"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 16,
+      "question": "Which component is responsible for controlling the speed of a computer's cooling fan?",
+      "options": {
+        "A": "Power Supply Unit (PSU)",
+        "B": "Central Processing Unit (CPU)",
+        "C": "System Clock",
+        "D": "Fan Controller"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 17,
+      "question": "Which interface is used to connect an external hard drive to a computer?",
+      "options": {
+        "A": "USB",
+        "B": "SATA",
+        "C": "FireWire",
+        "D": "Thunderbolt"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 18,
+      "question": "Which type of memory is non-volatile and commonly used for long-term storage?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "Flash memory",
+        "D": "Virtual memory"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 19,
+      "question": "What does the acronym GPU stand for in computer hardware?",
+      "options": {
+        "A": "General Processing Unit",
+        "B": "Global Processing Unit",
+        "C": "Graphical Performance Unit",
+        "D": "Graphics Processing Unit"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 20,
+      "question": "Which component is responsible for converting digital signals from a computer into analog signals for transmission over telephone lines?",
+      "options": {
+        "A": "Network Interface Card (NIC)",
+        "B": "Modem",
+        "C": "Ethernet Cable",
+        "D": "HUB"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    }
+  ],
+  "Data Structure and Algorithm": [
+    {
+      "item": 1,
+      "question": "What is the time complexity of inserting an element in a hashtable?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(n)",
+        "C": "O(log n)",
+        "D": "O(n^2)"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 2,
+      "question": "Which of the following is NOT a searching algorithm?",
+      "options": {
+        "A": "Linear search",
+        "B": "Binary search",
+        "C": "Depth-first search",
+        "D": "Breadth-first search"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Linked List",
+        "D": "Hash Table"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 4,
+      "question": "Which sorting algorithm has a worst-case time complexity of O(n^2)?",
+      "options": {
+        "A": "Quick sort",
+        "B": "Merge sort",
+        "C": "Bubble sort",
+        "D": "Insertion sort"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 5,
+      "question": "Which data structure represents a hierarchical structure with parent-child relationships?",
+      "options": {
+        "A": "Linked List",
+        "B": "Graph",
+        "C": "Tree",
+        "D": "Queue"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 6,
+      "question": "What is the time complexity of accessing an element in an array?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(n)",
+        "C": "O(log n)",
+        "D": "O(n^2)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 7,
+      "question": "Which data structure uses FIFO (First In, First Out) principle?",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Hash Table",
+        "D": "Heap"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "Which searching algorithm requires the input array to be sorted beforehand?",
+      "options": {
+        "A": "Linear search",
+        "B": "Binary search",
+        "C": "Depth-first search",
+        "D": "Breadth-first search"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 9,
+      "question": "Which sorting algorithm relies on the \"divide and conquer\" strategy?",
+      "options": {
+        "A": "Quick sort",
+        "B": "Merge sort",
+        "C": "Insertion sort",
+        "D": "Selection sort"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "What is the time complexity of removing an element from a binary search tree?",
+      "options": {
+        "A": "O(log n)",
+        "B": "O(n)",
+        "C": "O(1)",
+        "D": "O(n^2)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 11,
+      "question": "What is the time complexity of the QuickSort algorithm?",
+      "options": {
+        "A": "O(n)",
+        "B": "O(n^2)",
+        "C": "O(log n)",
+        "D": "O(n log n)"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 12,
+      "question": "Which data structure is typically used to implement a LIFO (Last In, First Out) behavior?",
+      "options": {
+        "A": "Linked List",
+        "B": "Queue",
+        "C": "Stack",
+        "D": "Binary Tree"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 13,
+      "question": "What is the purpose of hash functions in hash tables?",
+      "options": {
+        "A": "To determine the size of the hash table",
+        "B": "To randomly assign values to each element",
+        "C": "To minimize collisions and provide efficient key-value lookups",
+        "D": "To sort the elements in ascending order"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 14,
+      "question": "Which sorting algorithm has the best worst-case time complexity?",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Insertion Sort",
+        "C": "Merge Sort",
+        "D": "Selection Sort"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 15,
+      "question": "Which data structure follows the First In, First Out (FIFO) order?",
+      "options": {
+        "A": "Stack",
+        "B": "Linked List",
+        "C": "Queue",
+        "D": "Binary Search Tree"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 16,
+      "question": "What does BFS (Breadth-First Search) algorithm prioritize when exploring a graph?",
+      "options": {
+        "A": "Longest path between two vertices",
+        "B": "Deepest node in the graph",
+        "C": "Shortest path between two vertices",
+        "D": "Random selection of nodes"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 17,
+      "question": "Which of the following is NOT an example of a dynamic programming problem?",
+      "options": {
+        "A": "Fibonacci Sequence",
+        "B": "Knapsack Problem",
+        "C": "Longest Common Subsequence",
+        "D": "Depth-First Search"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 18,
+      "question": "Which data structure is used to efficiently implement recursive algorithms?",
+      "options": {
+        "A": "Heap",
+        "B": "Stack",
+        "C": "Queue",
+        "D": "Linked List"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 19,
+      "question": "In which data structure is Binary Search algorithm most efficient?",
+      "options": {
+        "A": "Singly Linked List",
+        "B": "Array",
+        "C": "Binary Tree",
+        "D": "Hash Table"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 20,
+      "question": "Which algorithm is used to determine the shortest path between nodes in a graph with weighted edges?",
+      "options": {
+        "A": "Dijkstra's Algorithm",
+        "B": "Bellman-Ford Algorithm",
+        "C": "Prim's Algorithm",
+        "D": "Kruskal's Algorithm"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    }
+  ],
+  "Fundametals of Programming": [
+    {
+      "item": 1,
+      "question": "What is the purpose of a variable in programming?",
+      "options": {
+        "A": "To store and manipulate data",
+        "B": "To connect two separate pieces of code",
+        "C": "To create a loop in the program",
+        "D": "To display information to the user"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 2,
+      "question": "What does the term \"syntax\" refer to in programming?",
+      "options": {
+        "A": "The style guide used to write code",
+        "B": "The execution speed of a program",
+        "C": "The rules and structure of a programming language",
+        "D": "The color scheme of the code editor"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which of the following is NOT a fundamental data type in programming?",
+      "options": {
+        "A": "Integer",
+        "B": "String",
+        "C": "Float",
+        "D": "Boolean"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 4,
+      "question": "What does the \"if...else\" statement do in programming?",
+      "options": {
+        "A": "Repeats a block of code until a condition is met",
+        "B": "Executes a block of code if a condition is true, otherwise executes another block",
+        "C": "Declares a new function in the program",
+        "D": "Checks if a variable is assigned a value"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 5,
+      "question": "What is the purpose of a loop in programming?",
+      "options": {
+        "A": "To create a random number",
+        "B": "To connect two separate pieces of code",
+        "C": "To store and manipulate data",
+        "D": "To repeat a block of code until a condition is met"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 6,
+      "question": "What does the term \"algorithm\" mean in programming?",
+      "options": {
+        "A": "A type of loop",
+        "B": "A specific programming language",
+        "C": "A sequence of steps to solve a problem",
+        "D": "A complex data structure"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 7,
+      "question": "What is the purpose of a function in programming?",
+      "options": {
+        "A": "To store and manipulate data",
+        "B": "To execute a specific task or algorithm",
+        "C": "To create a loop in the program",
+        "D": "To display information to the user"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "What does the term \"debugging\" mean in programming?",
+      "options": {
+        "A": "Removing all comments from the code",
+        "B": "Checking the syntax of the code",
+        "C": "Testing the program for errors and fixing them",
+        "D": "Executing the program step by step"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 9,
+      "question": "What does the term \"IDE\" stand for in programming?",
+      "options": {
+        "A": "Integrated Development Environment",
+        "B": "Interactive Debugging Environment",
+        "C": "Intelligent Data Extraction",
+        "D": "Information Display Engine"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "Which of the following is an example of a conditional operator in programming?",
+      "options": {
+        "A": "+",
+        "B": "*",
+        "C": "&&",
+        "D": "/"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 11,
+      "question": "What is a computer program?",
+      "options": {
+        "A": "A piece of software that allows your computer to perform specific tasks",
+        "B": "A physical component inside your computer that performs calculations",
+        "C": "A type of computer virus that infects other programs",
+        "D": "A device used to input commands into a computer"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 12,
+      "question": "What is the main purpose of a programming language?",
+      "options": {
+        "A": "To communicate with other computers over a network",
+        "B": "To create visually appealing websites and applications",
+        "C": "To instruct a computer to perform specific tasks",
+        "D": "To encrypt and secure data on a computer"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 13,
+      "question": "What does the term \"syntax\" refer to in programming?",
+      "options": {
+        "A": "The arrangement of words and phrases to create sentences",
+        "B": "The specific rules and structure of a programming language",
+        "C": "The process of finding and fixing errors in code",
+        "D": "The output generated by a computer program"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 14,
+      "question": "What is the purpose of a variable in programming?",
+      "options": {
+        "A": "To store and manipulate data during program execution",
+        "B": "To control the flow of the program's execution",
+        "C": "To display messages or prompts to the user",
+        "D": "To perform complex mathematical calculations"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 15,
+      "question": "What is a loop in programming?",
+      "options": {
+        "A": "A musical composition played repeatedly",
+        "B": "A method of organizing and storing data",
+        "C": "A series of instructions that are executed repeatedly",
+        "D": "A graphical user interface for an application"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 16,
+      "question": "What is the difference between a function and a method in programming?",
+      "options": {
+        "A": "Functions are built-in to programming languages, while methods are created by programmers",
+        "B": "Functions operate on classes, while methods operate on objects or instances",
+        "C": "Functions are used for mathematical calculations, while methods are used for text processing",
+        "D": "There is no difference, the terms are interchangeable"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 17,
+      "question": "What is a conditional statement in programming?",
+      "options": {
+        "A": "A statement that is always executed regardless of any conditions",
+        "B": "A statement that allows the program to make decisions based on different conditions",
+        "C": "A statement that outputs the result of a calculation or comparison",
+        "D": "A statement that is used to document the purpose and functionality of code"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 18,
+      "question": "What is debugging in programming?",
+      "options": {
+        "A": "The process of removing insects from a computer",
+        "B": "The process of writing code that performs a specific task",
+        "C": "The process of finding and fixing errors or bugs in code",
+        "D": "The process of optimizing code for better performance"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 19,
+      "question": "What is an algorithm in programming?",
+      "options": {
+        "A": "A type of computer virus",
+        "B": "A step-by-step procedure for solving a problem",
+        "C": "A type of programming language",
+        "D": "A keyboard shortcut for executing code"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 20,
+      "question": "What is the purpose of comments in programming?",
+      "options": {
+        "A": "To include hidden messages in code",
+        "B": "To disable a specific section of code temporarily",
+        "C": "To explain the purpose or functionality of code",
+        "D": "To change the appearance of text in the code editor"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    }
+  ],
+  "Networking": [
+    {
+      "item": 1,
+      "question": "The IP address 192.168.1.1 is an example of which type of IP address?",
+      "options": {
+        "A": "Public IP address",
+        "B": "Private IP address",
+        "C": "Static IP address",
+        "D": "Dynamic IP address"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 2,
+      "question": "Which network topology requires a central hub or switch?",
+      "options": {
+        "A": "Star topology",
+        "B": "Ring topology",
+        "C": "Bus topology",
+        "D": "Mesh topology"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which of the following protocols is used to transfer files between a client and a server over a network?",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "SMTP",
+        "D": "DHCP"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 4,
+      "question": "Which of the following is a Layer 2 device that operates at the Data Link layer of the OSI model?",
+      "options": {
+        "A": "Router",
+        "B": "Switch",
+        "C": "Hub",
+        "D": "Firewall"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 5,
+      "question": "What is the purpose of DNS in networking?",
+      "options": {
+        "A": "To convert IP addresses into domain names",
+        "B": "To convert domain names into IP addresses",
+        "C": "To ensure secure communication between two endpoints",
+        "D": "To provide network security"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 6,
+      "question": "Which network protocol is used for secure communication between a client and a server, often used for remote access or file sharing?",
+      "options": {
+        "A": "HTTPS",
+        "B": "SSH",
+        "C": "Telnet",
+        "D": "DNS"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 7,
+      "question": "What does the acronym WAN stand for in networking?",
+      "options": {
+        "A": "Wide Area Network",
+        "B": "Wireless Access Network",
+        "C": "Wide Access Network",
+        "D": "Wireless Area Network"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "Which device connects multiple networks together and can determine the best path for data packets to travel?",
+      "options": {
+        "A": "Router",
+        "B": "Modem",
+        "C": "Repeater",
+        "D": "Bridge"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 9,
+      "question": "Which of the following is a reserved IP address that always points to the local host (your own computer)?",
+      "options": {
+        "A": "127.0.0.1",
+        "B": "192.168.0.1",
+        "C": "10.0.0.1",
+        "D": "172.16.0.1"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "What does the acronym DHCP stand for in networking?",
+      "options": {
+        "A": "Domain Host Configuration Protocol",
+        "B": "Dynamic Host Control Protocol",
+        "C": "Dynamic Host Configuration Protocol",
+        "D": "Domain Host Control Protocol"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 11,
+      "question": "The IP address 192.168.1.1 is an example of which type of IP address?",
+      "options": {
+        "A": "Public IP address",
+        "B": "Private IP address",
+        "C": "Static IP address",
+        "D": "Dynamic IP address"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 12,
+      "question": "Which network topology requires a central hub or switch?",
+      "options": {
+        "A": "Star topology",
+        "B": "Ring topology",
+        "C": "Bus topology",
+        "D": "Mesh topology"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 13,
+      "question": "Which of the following protocols is used to transfer files between a client and a server over a network?",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "SMTP",
+        "D": "DHCP"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 14,
+      "question": "Which of the following is a Layer 2 device that operates at the Data Link layer of the OSI model?",
+      "options": {
+        "A": "Router",
+        "B": "Switch",
+        "C": "Hub",
+        "D": "Firewall"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 15,
+      "question": "What is the purpose of DNS in networking?",
+      "options": {
+        "A": "To convert IP addresses into domain names",
+        "B": "To convert domain names into IP addresses",
+        "C": "To ensure secure communication between two endpoints",
+        "D": "To provide network security"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 16,
+      "question": "Which network protocol is used for secure communication between a client and a server, often used for remote access or file sharing?",
+      "options": {
+        "A": "HTTPS",
+        "B": "SSH",
+        "C": "Telnet",
+        "D": "DNS"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 17,
+      "question": "What does the acronym WAN stand for in networking?",
+      "options": {
+        "A": "Wide Area Network",
+        "B": "Wireless Access Network",
+        "C": "Wide Access Network",
+        "D": "Wireless Area Network"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 18,
+      "question": "Which device connects multiple networks together and can determine the best path for data packets to travel?",
+      "options": {
+        "A": "Router",
+        "B": "Modem",
+        "C": "Repeater",
+        "D": "Bridge"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 19,
+      "question": "Which of the following is a reserved IP address that always points to the local host (your own computer)?",
+      "options": {
+        "A": "127.0.0.1",
+        "B": "192.168.0.1",
+        "C": "10.0.0.1",
+        "D": "172.16.0.1"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 20,
+      "question": "What does the acronym DHCP stand for in networking?",
+      "options": {
+        "A": "Domain Host Configuration Protocol",
+        "B": "Dynamic Host Control Protocol",
+        "C": "Dynamic Host Configuration Protocol",
+        "D": "Domain Host Control Protocol"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    }
+  ]
+}

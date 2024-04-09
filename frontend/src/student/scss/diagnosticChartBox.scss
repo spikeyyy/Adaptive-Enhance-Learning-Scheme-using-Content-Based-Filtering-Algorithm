@@ -1,0 +1,17 @@
+.diagnosticChartBox {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    .diagnosticChartBoxTitle {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .diagnosticChart {
+        width: 100%;
+        height: 300px;
+    }
+}

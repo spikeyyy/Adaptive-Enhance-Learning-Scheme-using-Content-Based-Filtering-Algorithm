@@ -1,0 +1,170 @@
+.editUser {
+    flex: 4;
+}
+
+.editUserTitleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.editUserTitle {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.addEditUserButton {
+    width: 80px;
+    border: none;
+    padding: 5px;
+    background-color: teal;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.editUserContainer {
+    display: flex;
+    margin-top: 20px;
+}
+
+.editUserShow {
+    flex: 1;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+    height: 50%;
+}
+
+.editUserShowTop {
+    display: flex;
+    align-items: center;
+}
+
+.EditUserShowImg {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.editUserShowTopTitle {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.editUserShowUsername {
+    font-weight: 600;
+}
+
+.editUserShowUserTitle {
+    font-weight: 300;
+}
+
+.editUserShowBottom {
+    margin-top: 20px;
+    /* -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    border-radius: 20px;
+    flex: 1;
+    padding: 10px; */
+}
+
+.editUserShowTitle {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(175, 170, 170);
+}
+
+.editUserShowInfo {
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    color: #444;
+}
+
+.editUserShowIcon {
+    font-size: 20px !important;
+}
+
+.editUserShowInfoTitle{
+    margin-left: 10px;
+}
+
+.editUserUpdate {
+    flex: 2;
+    padding: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.editUserUpdateTitle {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.editUserUpdateForm {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.editUserUpdateItem {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.editUserUpdateItem>label{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.editUserUpdateInput {
+    border: none;
+    width: 250px;
+    height: 30px;
+    border-bottom: 1px solid gray;
+}
+
+.editUserUpdateRight {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.editUserUpdateUpload {
+    display: flex;
+    align-items: center;
+}
+
+.editUserUpdateImg {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.editUserUpdateIcon {
+    cursor: pointer;
+}
+
+.editUserUpdateButton {
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    background-color: darkblue;
+    color: white;
+    font-weight: 600;
+}
+
+
+

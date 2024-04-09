@@ -1,0 +1,245 @@
+{
+  "questions": [
+    {
+      "item": 1,
+      "question": "What is the time complexity of inserting an element in a hashtable?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(n)",
+        "C": "O(log n)",
+        "D": "O(n^2)"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 2,
+      "question": "Which of the following is NOT a searching algorithm?",
+      "options": {
+        "A": "Linear search",
+        "B": "Binary search",
+        "C": "Depth-first search",
+        "D": "Breadth-first search"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 3,
+      "question": "Which data structure uses LIFO (Last In, First Out) principle?",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Linked List",
+        "D": "Hash Table"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 4,
+      "question": "Which sorting algorithm has a worst-case time complexity of O(n^2)?",
+      "options": {
+        "A": "Quick sort",
+        "B": "Merge sort",
+        "C": "Bubble sort",
+        "D": "Insertion sort"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 5,
+      "question": "Which data structure represents a hierarchical structure with parent-child relationships?",
+      "options": {
+        "A": "Linked List",
+        "B": "Graph",
+        "C": "Tree",
+        "D": "Queue"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 6,
+      "question": "What is the time complexity of accessing an element in an array?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(n)",
+        "C": "O(log n)",
+        "D": "O(n^2)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 7,
+      "question": "Which data structure uses FIFO (First In, First Out) principle?",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Hash Table",
+        "D": "Heap"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 8,
+      "question": "Which searching algorithm requires the input array to be sorted beforehand?",
+      "options": {
+        "A": "Linear search",
+        "B": "Binary search",
+        "C": "Depth-first search",
+        "D": "Breadth-first search"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 9,
+      "question": "Which sorting algorithm relies on the \"divide and conquer\" strategy?",
+      "options": {
+        "A": "Quick sort",
+        "B": "Merge sort",
+        "C": "Insertion sort",
+        "D": "Selection sort"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 10,
+      "question": "What is the time complexity of removing an element from a binary search tree?",
+      "options": {
+        "A": "O(log n)",
+        "B": "O(n)",
+        "C": "O(1)",
+        "D": "O(n^2)"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    },
+    {
+      "item": 11,
+      "question": "What is the time complexity of the QuickSort algorithm?",
+      "options": {
+        "A": "O(n)",
+        "B": "O(n^2)",
+        "C": "O(log n)",
+        "D": "O(n log n)"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 12,
+      "question": "Which data structure is typically used to implement a LIFO (Last In, First Out) behavior?",
+      "options": {
+        "A": "Linked List",
+        "B": "Queue",
+        "C": "Stack",
+        "D": "Binary Tree"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 13,
+      "question": "What is the purpose of hash functions in hash tables?",
+      "options": {
+        "A": "To determine the size of the hash table",
+        "B": "To randomly assign values to each element",
+        "C": "To minimize collisions and provide efficient key-value lookups",
+        "D": "To sort the elements in ascending order"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 14,
+      "question": "Which sorting algorithm has the best worst-case time complexity?",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Insertion Sort",
+        "C": "Merge Sort",
+        "D": "Selection Sort"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 15,
+      "question": "Which data structure follows the First In, First Out (FIFO) order?",
+      "options": {
+        "A": "Stack",
+        "B": "Linked List",
+        "C": "Queue",
+        "D": "Binary Search Tree"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 16,
+      "question": "What does BFS (Breadth-First Search) algorithm prioritize when exploring a graph?",
+      "options": {
+        "A": "Longest path between two vertices",
+        "B": "Deepest node in the graph",
+        "C": "Shortest path between two vertices",
+        "D": "Random selection of nodes"
+      },
+      "correct_answer": "C",
+      "incorrect_answer": ["A", "B", "D"]
+    },
+    {
+      "item": 17,
+      "question": "Which of the following is NOT an example of a dynamic programming problem?",
+      "options": {
+        "A": "Fibonacci Sequence",
+        "B": "Knapsack Problem",
+        "C": "Longest Common Subsequence",
+        "D": "Depth-First Search"
+      },
+      "correct_answer": "D",
+      "incorrect_answer": ["A", "B", "C"]
+    },
+    {
+      "item": 18,
+      "question": "Which data structure is used to efficiently implement recursive algorithms?",
+      "options": {
+        "A": "Heap",
+        "B": "Stack",
+        "C": "Queue",
+        "D": "Linked List"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 19,
+      "question": "In which data structure is Binary Search algorithm most efficient?",
+      "options": {
+        "A": "Singly Linked List",
+        "B": "Array",
+        "C": "Binary Tree",
+        "D": "Hash Table"
+      },
+      "correct_answer": "B",
+      "incorrect_answer": ["A", "C", "D"]
+    },
+    {
+      "item": 20,
+      "question": "Which algorithm is used to determine the shortest path between nodes in a graph with weighted edges?",
+      "options": {
+        "A": "Dijkstra's Algorithm",
+        "B": "Bellman-Ford Algorithm",
+        "C": "Prim's Algorithm",
+        "D": "Kruskal's Algorithm"
+      },
+      "correct_answer": "A",
+      "incorrect_answer": ["B", "C", "D"]
+    }
+  ]
+  
+}
